@@ -68,11 +68,12 @@ _the top languages chart will tell you more about me than I'd like_
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khankhanfauzan&layout=compact&hide_border=true&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khankhanfauzan&show_icons=true&hide_border=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khankhanfauzan&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=khankhanfauzan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=khankhanfauzan&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khankhanfauzan&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khankhanfauzan&hide_border=true&theme=github-compact)
 
 ---
 
