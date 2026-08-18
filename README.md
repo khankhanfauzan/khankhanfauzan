@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Fauzan 👋
 
 _Flutter Developer by day, Mobile Engineer by title, Fullstack Developer in progress — the LinkedIn headline is getting crowded._
@@ -6,7 +7,7 @@ _Flutter Developer by day, Mobile Engineer by title, Fullstack Developer in prog
 [![Email](https://img.shields.io/badge/Email-Serious_Inquiries_Only-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fauzanakbarkhan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio_%2B_Promise-222222?style=flat-square)]([https://your-portfolio.dev](https://fauzankhan.vercel.app/))
 ![Profile Views](https://komarev.com/ghpvc/?username=khankhanfauzan&color=282828&style=flat-square)
-
+</div>
 ---
 
 ## 🧾 The Executive Summary
