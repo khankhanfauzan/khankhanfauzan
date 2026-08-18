@@ -65,7 +65,7 @@ _quotation marks doing a lot of work here_
 _in descending order of response probability_
 
 1. 🔗 [LinkedIn](https://www.linkedin.com/in/fauzanakbarkhan/) — professional mode on, notifications enabled.
-2. ✉️ [email@kamu.com](mailto:fauzanakbarkhan@gmail.com) — for serious matters, answered seriously (eventually).
+2. ✉️ [Email](mailto:fauzanakbarkhan@gmail.com) — for serious matters, answered seriously (eventually).
 3. 🔸 [GitHub](https://github.com/khankhanfauzan) — you're already here, might as well star something.
 4. 🌐 [Portfolio](https://fauzankhan.vercel.app/) — it has a contact form, and the form actually works.
 
