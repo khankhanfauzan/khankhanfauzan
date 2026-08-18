@@ -68,6 +68,8 @@ _quotation marks doing a lot of work here_
 
 _the top languages chart will tell you more about me than I'd like_
 
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khankhanfauzan&layout=compact&hide_border=true&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khankhanfauzan&show_icons=true&hide_border=true&theme=default)
 
@@ -77,6 +79,8 @@ _the top languages chart will tell you more about me than I'd like_
 ![Trophies](https://github-profile-trophy.vercel.app/?username=khankhanfauzan&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khankhanfauzan&hide_border=true&theme=github-compact)
+
+</div>
 
 ---
 
