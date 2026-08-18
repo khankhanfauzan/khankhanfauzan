@@ -1,16 +1,17 @@
-# Hi, I'm Fauzan Akbar Khan. 👋
+# Hi, I'm Fauzan 👋
 
-_Flutter Developer, Mobile Engineer, Software Engineer, Fullstack Developer — pick one, or all four at once during an identity crisis on my resume._
+_Flutter Developer by day, Mobile Engineer by title, Fullstack Developer in progress — the LinkedIn headline is getting crowded._
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Face_On-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzanakbarkhan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Face_On-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khankhanfauzan)
 [![Email](https://img.shields.io/badge/Email-Serious_Inquiries_Only-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fauzanakbarkhan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio_%2B_Promise-222222?style=flat-square)](https://fauzankhan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio_%2B_Promise-222222?style=flat-square)]([https://your-portfolio.dev](https://fauzankhan.vercel.app/))
+![Profile Views](https://komarev.com/ghpvc/?username=khankhanfauzan&color=282828&style=flat-square)
 
 ---
 
 ## 🧾 The Executive Summary
 
-- **4+ years** of Software Engineering experience — long enough to have strong opinions about `setState` vs `Provider` vs `Riverpod` vs `Bloc` or `Cubit`, and to still change my mind every six months.
+- **4+ years** of Software Engineering experience — long enough to have strong opinions about `setState` vs `Bloc`, `REST` vs `GraphQL`, and `monorepo` vs `polyrepo`, and to still change my mind every six months.
 - I specialize in building high-performance, cross-platform mobile apps used by **thousands of active users**, while quietly praying Crashlytics stays green.
 - I've built, and keep building, software that talks to IoT hardware — where the bug could be in the code or in a loose wire.
 - Currently migrating identities from Mobile Engineer to **Full-Stack Software Engineer**, because suffering only on the frontend clearly wasn't enough.
@@ -57,6 +58,21 @@ _quotation marks doing a lot of work here_
 - 🏗️ **Full-Stack System Architecture** — learning to own bugs end-to-end, not just on the phone screen.
 - 🤝 **Mentoring & Technical Leadership** — explaining for the 15th time why `BuildContext` shouldn't be used after an `await`, patiently.
 - ⚙️ **Agile & Remote Collaboration** — standups across time zones, coffee across working hours.
+
+---
+
+## 📊 Numbers That Judge Me
+
+_the top languages chart will tell you more about me than I'd like_
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khankhanfauzan&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khankhanfauzan&show_icons=true&hide_border=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khankhanfauzan&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=khankhanfauzan&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khankhanfauzan&hide_border=true)
 
 ---
 
